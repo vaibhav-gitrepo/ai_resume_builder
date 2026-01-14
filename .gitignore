@@ -1,0 +1,13 @@
+GOOGLE_API_KEY = "YOUR_GEMINI_API_KEY"
+
+[database]
+server = "localhost\\SQLEXPRESS"  # Your server name
+database = "ResumeDB"
+username = "sa"
+password = "YourStrongPassword123"
+driver = "ODBC Driver 17 for SQL Server"
+
+venv/
+.streamlit/secrets.toml
+__pycache__/
+*.db

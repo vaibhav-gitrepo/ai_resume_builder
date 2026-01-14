@@ -1,0 +1,6 @@
+streamlit
+sqlalchemy
+pyodbc
+langchain-google-genai
+python-docx
+fpdf2
